@@ -37,6 +37,7 @@ Aqui estão algumas das tecnologias que utilizo com frequência nos meus projeto
 ## 🏅 Certificações Técnicas — Badges
 
 ☁️ Cloud & Infraestrutura
+
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
 
 ![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest-FF9900?logo=amazonaws&logoColor=white)
