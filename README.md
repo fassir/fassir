@@ -34,58 +34,109 @@ Aqui estão algumas das tecnologias que utilizo com frequência nos meus projeto
 
 - AWS Certified Cloud Practitioner (2025-2028)
 
-🏅 Certificações Técnicas — Badges
+## 🏅 Certificações Técnicas — Badges
+
 ☁️ Cloud & Infraestrutura
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
+
 ![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest-FF9900?logo=amazonaws&logoColor=white)
+
 ![Google Cloud Engineer](https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-4285F4?logo=googlecloud&logoColor=white)
+
 ![Azure Storage](https://img.shields.io/badge/Azure-E%20Commerce%20Storage-0078D4?logo=microsoftazure&logoColor=white)
+
 ![Oracle Database](https://img.shields.io/badge/Oracle-Database%20Admin-F80000?logo=oracle&logoColor=white)
+
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Fundamentos-00BFFF?logo=cloudflare&logoColor=white)
+
 🤖 Inteligência Artificial & GenAI
+
 ![AI-Assisted](https://img.shields.io/badge/AI-R%20Certified%20Professional-00B4D8?logo=openai&logoColor=white)
+
 ![GenAI](https://img.shields.io/badge/GenAI-Technical%20Certification-00B4D8?logo=openai&logoColor=white)
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Avançado-FF6F00?logo=tensorflow&logoColor=white)
+
 ![PLN](https://img.shields.io/badge/PLN-Processamento%20de%20Linguagem-8E44AD?logo=python&logoColor=white)
+
 ![ML & PLN Estácio](https://img.shields.io/badge/IA%20Estácio-ML%20e%20PLN-2E86C1?logo=python&logoColor=white)
+
 🧪 Testes, QA & DevOps
+
 ![QA](https://img.shields.io/badge/QA-Testes%20Automatizados-8E44AD?logo=cypress&logoColor=white)
+
 ![SRE](https://img.shields.io/badge/SRE-Site%20Reliability%20Engineering-34495E?logo=google&logoColor=white)
+
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Integração%20Contínua-2088FF?logo=githubactions&logoColor=white)
+
 ![DevOps](https://img.shields.io/badge/DevOps-Alura-00BFFF?logo=docker&logoColor=white)
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Udemy-326CE5?logo=kubernetes&logoColor=white)
+
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Orquestração-017CEE?logo=apacheairflow&logoColor=white)
+
 🖥️ Linux & Monitoramento
+
 ![Linux Completo](https://img.shields.io/badge/Linux-Completo%20e%20Servidores-333333?logo=linux&logoColor=white)
+
 ![Linux Básico](https://img.shields.io/badge/Linux-Conceitos%20e%20Comandos-333333?logo=linux&logoColor=white)
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoramento-E6522C?logo=prometheus&logoColor=white)
+
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?logo=grafana&logoColor=white)
+
 📊 Dados & Visualização
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-Alura-47A248?logo=mongodb&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL%20Avançado-336791?logo=postgresql&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-Oracle%20Server-4479A1?logo=mysql&logoColor=white)
+
 ![Data Science](https://img.shields.io/badge/Data%20Science-Alura-2E86C1?logo=python&logoColor=white)
+
 ![Python DS](https://img.shields.io/badge/Python-Data%20Science-3776AB?logo=python&logoColor=white)
+
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Alura-E25A1C?logo=apachespark&logoColor=white)
+
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-Alura-6C3483?logo=databricks&logoColor=white)
+
 💻 Desenvolvimento & Frameworks
+
 ![C#](https://img.shields.io/badge/C%23-ASP.NET%20Core-512BD4?logo=csharp&logoColor=white)
+
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-LINQ-512BD4?logo=dotnet&logoColor=white)
+
 ![Boas Práticas C#](https://img.shields.io/badge/C%23-Boas%20Práticas-6C3483?logo=csharp&logoColor=white)
+
 ![Laravel](https://img.shields.io/badge/Laravel-PHP%20Web%20Apps-FF2D20?logo=laravel&logoColor=white)
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-Framework%20Frontend-4FC08D?logo=vue.js&logoColor=white)
+
 ![JavaScript Backend](https://img.shields.io/badge/JavaScript-Back--End%20Alura-F7DF1E?logo=javascript&logoColor=black)
+
 ![Programação Iniciante](https://img.shields.io/badge/Programação-Iniciante-3498DB?logo=codeforces&logoColor=white)
+
 🧩 Gestão & Negócios
+
 ![Business Agility](https://img.shields.io/badge/Business%20Agility-Alura-27AE60?logo=leanpub&logoColor=white)
+
 ![SAP](https://img.shields.io/badge/SAP-Gestão%20e%20Aplicações-0FAAFF?logo=sap&logoColor=white)
+
 🔐 Segurança da Informação
+
 ![Cyber Threat Management](https://img.shields.io/badge/Cisco-Cyber%20Threat%20Management-1D63ED?logo=cisco&logoColor=white)
+
 🛠️ Versionamento e Colaboração
+
 ![Git](https://img.shields.io/badge/Git-Versionamento-F05032?logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github&logoColor=white)
+
 ---
+
 ## 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fassir&layout=compact&theme=radical)
