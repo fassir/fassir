@@ -1,97 +1,90 @@
-# 👋 Olá! Eu sou o **Fabio Piassi** — também conhecido como **fassir** por aqui no GitHub
+👋 Sobre Mim
+Oi! Eu sou o Fabio Piassi — apaixonado por tecnologia, dados e soluções inteligentes. Com formação em Física e especializações em Ciência de Dados, DevSecOps e Inteligência Artificial, venho construindo uma carreira que une análise profunda com aplicação prática.
 
-Seja muito bem-vindo ao meu espaço digital! Aqui você encontrará uma coleção de projetos que refletem minha paixão por tecnologia, automação, inteligência artificial e segurança da informação. Cada repositório é fruto de estudo, experimentação e vontade de resolver problemas reais com soluções inteligentes e escaláveis.
+Gosto de transformar complexidade em clareza: seja criando pipelines de dados, automatizando infraestrutura com Docker e Kubernetes, ou desenvolvendo aplicações seguras e escaláveis em nuvem (Azure, AWS, GCP). Também tenho experiência com monitoramento de sistemas, testes automatizados e visualização de dados com ferramentas como Prometheus, Grafana, Power BI e Python.
 
+Já conquistei certificações por empresas como Cisco, AWS, Google Cloud, Microsoft e AI/R — cobrindo áreas que vão de segurança cibernética a machine learning, passando por DevOps, bancos de dados e boas práticas de desenvolvimento.
+
+Sou movido por desafios que envolvem inovação, automação e inteligência aplicada. E claro: sempre aberto a aprender, compartilhar e colaborar.
 ---
 
 ## 🧭 Quem sou eu?
+🎓 Formado em áreas técnicas com foco em desenvolvimento, infraestrutura e segurança da informação
 
-- 🎓 Formado em áreas técnicas com foco em desenvolvimento, infraestrutura e segurança
-- 🧠 Curioso incansável: estou sempre explorando novas linguagens, frameworks e arquiteturas
-- 🔐 Foco em DevSecOps: acredito que segurança deve estar presente desde o primeiro commit
-- ☁️ Especialista em soluções em nuvem: Azure, AWS e automações com Shell Script
-- 🤖 Explorador de IA: aplico modelos generativos e redes neurais em projetos práticos
-- 📈 Apaixonado por dados: gosto de transformar números em decisões com ML e visualizações
+🧠 Explorador de tecnologias: sempre testando novas linguagens, frameworks e arquiteturas modernas
+
+🔐 DevSecOps na prática: segurança integrada desde o commit até o deploy, com CI/CD e automações
+
+☁️ Especialista em nuvem: experiência com Azure, AWS, GCP e automações via Shell Script e Terraform
+
+🤖 Aplicador de IA: uso de redes neurais, modelos generativos e PLN em soluções reais com Python e Spark
+
+📊 Apaixonado por dados: engenharia de dados, machine learning e visualizações com Power BI, Grafana e Pandas
+
+🐳 Infraestrutura como código: conteinerização com Docker, orquestração com Kubernetes e monitoramento com Prometheus
+
+🧪 Testes e qualidade: automação com Selenium, Postman e Cypress para garantir confiabilidade em produção
 
 ---
 ## 🏷️ Badges e Tecnologias
 
 Aqui estão algumas das tecnologias que utilizo com frequência nos meus projetos:
 
-🧰 Tecnologias de Desenvolvimento
-Essas são as linguagens e ferramentas que uso com frequência para construir soluções robustas e escaláveis:
+## 📜 Certificações
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-E95420?logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-OS-A81D33?logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-OS-262577?logo=centos&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-Web%20Server-CA2F34?logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?logo=nginx&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-CMS-21759B?logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-009688?logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-JavaScript%20Library-61DAFB?logo=react&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-JavaScript%20Library-0769AD?logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.0-purple?logo=php&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-012456?logo=powershell&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-Text%20Editor-019733?logo=vim&logoColor=white)
+- AWS Certified Cloud Practitioner (2025-2028)
 
-☁️ Cloud & DevOps
-Ferramentas e plataformas que uso para automação, deploy e integração contínua:
-
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Deployed-0078D4?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Ready-FF9900?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-FFCA28?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Visualization-F46800?logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-Logging%20and%20Monitoring-00B4D8?logo=elasticsearch&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42B2?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-0033CC?logo=ansible&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-Container%20Platform-EE0000?logo=openshift&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-Container%20Package%20Manager-0F1689?logo=helm&logoColor=white)
-
-
-🤖 Inteligência Artificial & Visão Computacional
-Frameworks e bibliotecas que aplico em projetos de IA, reconhecimento facial e agentes inteligentes:
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5-5C3EE8?logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-AI%20Agents-00B4D8?logo=python&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/Azure%20ChatGPT-LLM%20Powered-0078D4?logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FF6F00?logo=huggingface&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-00B4D8?logo=openai&logoColor=white)
-
-📊 Análise de Dados & Visualização
-Ferramentas que uso para explorar, modelar e visualizar dados:
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Magic-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Data%20Viz-4C72B0?logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Graphs-3F4B8A?logo=plotly&logoColor=white)
-📄 Licença e Status dos Projetos
-Informações sobre o estado atual dos repositórios e licenciamento:
-
-![License](https://img.shields.io/github/license/fassir/ReconhecimentoFacial?color=blue)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?logo=github
-
+🏅 Certificações Técnicas — Badges
+☁️ Cloud & Infraestrutura
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
+![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest-FF9900?logo=amazonaws&logoColor=white)
+![Google Cloud Engineer](https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-4285F4?logo=googlecloud&logoColor=white)
+![Azure Storage](https://img.shields.io/badge/Azure-E%20Commerce%20Storage-0078D4?logo=microsoftazure&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle-Database%20Admin-F80000?logo=oracle&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Fundamentos-00BFFF?logo=cloudflare&logoColor=white)
+🤖 Inteligência Artificial & GenAI
+![AI-Assisted](https://img.shields.io/badge/AI-R%20Certified%20Professional-00B4D8?logo=openai&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Technical%20Certification-00B4D8?logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Avançado-FF6F00?logo=tensorflow&logoColor=white)
+![PLN](https://img.shields.io/badge/PLN-Processamento%20de%20Linguagem-8E44AD?logo=python&logoColor=white)
+![ML & PLN Estácio](https://img.shields.io/badge/IA%20Estácio-ML%20e%20PLN-2E86C1?logo=python&logoColor=white)
+🧪 Testes, QA & DevOps
+![QA](https://img.shields.io/badge/QA-Testes%20Automatizados-8E44AD?logo=cypress&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-Site%20Reliability%20Engineering-34495E?logo=google&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Integração%20Contínua-2088FF?logo=githubactions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Alura-00BFFF?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Udemy-326CE5?logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Orquestração-017CEE?logo=apacheairflow&logoColor=white)
+🖥️ Linux & Monitoramento
+![Linux Completo](https://img.shields.io/badge/Linux-Completo%20e%20Servidores-333333?logo=linux&logoColor=white)
+![Linux Básico](https://img.shields.io/badge/Linux-Conceitos%20e%20Comandos-333333?logo=linux&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoramento-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?logo=grafana&logoColor=white)
+📊 Dados & Visualização
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-Alura-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL%20Avançado-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Oracle%20Server-4479A1?logo=mysql&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-Alura-2E86C1?logo=python&logoColor=white)
+![Python DS](https://img.shields.io/badge/Python-Data%20Science-3776AB?logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Alura-E25A1C?logo=apachespark&logoColor=white)
+![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-Alura-6C3483?logo=databricks&logoColor=white)
+💻 Desenvolvimento & Frameworks
+![C#](https://img.shields.io/badge/C%23-ASP.NET%20Core-512BD4?logo=csharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-LINQ-512BD4?logo=dotnet&logoColor=white)
+![Boas Práticas C#](https://img.shields.io/badge/C%23-Boas%20Práticas-6C3483?logo=csharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-PHP%20Web%20Apps-FF2D20?logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-Framework%20Frontend-4FC08D?logo=vue.js&logoColor=white)
+![JavaScript Backend](https://img.shields.io/badge/JavaScript-Back--End%20Alura-F7DF1E?logo=javascript&logoColor=black)
+![Programação Iniciante](https://img.shields.io/badge/Programação-Iniciante-3498DB?logo=codeforces&logoColor=white)
+🧩 Gestão & Negócios
+![Business Agility](https://img.shields.io/badge/Business%20Agility-Alura-27AE60?logo=leanpub&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-Gestão%20e%20Aplicações-0FAAFF?logo=sap&logoColor=white)
+🔐 Segurança da Informação
+![Cyber Threat Management](https://img.shields.io/badge/Cisco-Cyber%20Threat%20Management-1D63ED?logo=cisco&logoColor=white)
+🛠️ Versionamento e Colaboração
+![Git](https://img.shields.io/badge/Git-Versionamento-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github&logoColor=white)
 ---
 ## 📊 Linguagens mais usadas
 
